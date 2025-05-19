@@ -5,8 +5,6 @@
 Bat file for closing and kill all ports in Windows.
 
 
-Батник для закрытия всех портов в Виндовс.
-
 
 Supported Platforms
 # Windows 11
